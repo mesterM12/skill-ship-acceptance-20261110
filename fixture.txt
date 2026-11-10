@@ -1,1 +1,1 @@
-candidate A
+candidate B
